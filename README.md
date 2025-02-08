@@ -1,6 +1,6 @@
 # Beams Collision - Explosion Effect
 
-This Flutter project implements an explosion effect using `CustomPainter` and `AnimationController`.
+This Component implements an explosion effect using `CustomPainter` and `AnimationController`.
 
 ## Features
 
